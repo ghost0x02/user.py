@@ -32,5 +32,5 @@ python3 news.py
 
 ```
 
-[![Image](https://i.hizliresim.com/bg0sj7x.jpeg)](https://hizliresim.com/bg0sj7x)
+[![Image](https://i.hizliresim.com/ippv2k9.gif)](https://hizliresim.com/ippv2k9)
 
