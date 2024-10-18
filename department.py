@@ -13,7 +13,7 @@ time.sleep(1)
 
 print("""
  +--------------+
-| 1)depratment  |
+| 1)department  |
 +--------------+""")
 
 print("LÜTFEN BİR SEÇENEK GİRİN")
