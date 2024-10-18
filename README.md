@@ -1,3 +1,7 @@
+[![Image](https://i.hizliresim.com/ippv2k9.gif)](https://hizliresim.com/ippv2k9)
+
+
+
 ## USE:
 
 ```
@@ -31,6 +35,4 @@ python3 news.py
 
 
 ```
-
-[![Image](https://i.hizliresim.com/ippv2k9.gif)](https://hizliresim.com/ippv2k9)
 
