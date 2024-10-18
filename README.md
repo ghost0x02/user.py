@@ -31,3 +31,6 @@ python3 news.py
 
 
 ```
+
+[![Image](https://i.hizliresim.com/bg0sj7x.jpeg)](https://hizliresim.com/bg0sj7x)
+
