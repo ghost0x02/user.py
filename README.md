@@ -26,4 +26,8 @@ python3 employee.py
 python3 images.py
 --------------------------------------
 python3 inbox.py
+--------------------------------------
+python3 news.py
+
+
 ```
