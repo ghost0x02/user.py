@@ -13,7 +13,7 @@ time.sleep(1)
 
 print("""
  +--------------+
-| 1)user         |
+| 1)images      |
 +--------------+""")
 
 print("LÜTFEN BİR SEÇENEK GİRİN")
